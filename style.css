@@ -1,0 +1,97 @@
+body{
+  background-image:url("sfondo.jpg");
+  background-size:cover;
+}
+
+.conteiner0{
+  margin-top: 30px;
+}
+
+.conteiner1{
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  width: 1000px;
+  height: 600px;
+  padding: 100px;
+  border-radius: 25px;
+}
+
+.conteiner2{
+  width: 1000px;
+  margin: auto;
+}
+
+header{
+  margin-bottom: 5px;
+}
+
+header>img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+  width: 25%;
+}
+
+header>h1{
+  font-family: 'Questrial', sans-serif;
+  margin: auto;
+  text-align: center;
+  color: #00dd00;
+}
+
+.barra_nav{
+  background-color: #00dd00;
+  padding: 10px;
+}
+
+.center{
+  text-align: center;
+}
+
+main{
+  font-family: 'Questrial', sans-serif;
+  color: white;
+}
+
+.models{
+  margin-top: 20px;
+}
+
+div>h2{
+  display: inline;
+}
+
+.position{
+  font-size: 17px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.barra_carica1{
+  background-color: hsl(36deg 89% 64%);
+  width: 400px;
+  height: 25px;
+  margin-top: auto;
+  border-radius: 5px;
+}
+
+.barra_carica2{
+  background-color: hsl(120deg 73% 44%);
+  width: 600px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+.barra_carica3{
+  background-color: hsl(0deg 49% 50%);
+  width: 100px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+footer{
+  font-family: 'Questrial', sans-serif;
+  color: white;
+  text-align: center;
+}
